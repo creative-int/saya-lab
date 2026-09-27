@@ -1,0 +1,8 @@
+{
+  "name": "saya-lab",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "saya's lab repo: the live proof for 'fix the failing test and open a draft PR'.",
+  "scripts": { "test": "node --test test/" }
+}
